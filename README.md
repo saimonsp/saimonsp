@@ -19,3 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimonsp&show_icons=true&locale=en&theme=tokyonight" alt="saimonsp" /></p>
 
+ ![Snake animation](https://github.com/saimonsp/saimonsp/blob/output/github-contribution-grid-snake.svg)
